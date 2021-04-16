@@ -29,3 +29,10 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+/* set map, body, and html to 100% of the screen size */
+#mymap
+{
+  height: 400px;
+  width: 100%;
+}
